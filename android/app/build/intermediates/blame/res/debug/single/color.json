@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color/abc_search_url_text.xml"
+    }
+]

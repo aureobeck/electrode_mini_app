@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/frankkair/.android/build-cache/86607776ad4e643e45bdd6703297f4ffc32ae0ce/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/moblee/.android/build-cache/ff038767e8f9c40f499874d6b70fa3641bb24c50/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

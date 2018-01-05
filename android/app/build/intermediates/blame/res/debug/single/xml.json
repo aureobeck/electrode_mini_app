@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/frankkair/.android/build-cache/411b0a820903b222beb9f640384a8e7fc0f739b2/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/frankkair/.android/build-cache/411b0a820903b222beb9f640384a8e7fc0f739b2/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/moblee/.android/build-cache/f628545dd2bc9e4246c2a7cf7054826b39a4d98b/output/res/xml/preferences.xml"
+    }
+]

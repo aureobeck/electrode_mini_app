@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/frankkair/.android/build-cache/56ded360dc2a666c8b9dea47fef0f8e9ab2d71b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="616d67dc5efbdfd3d8646224ae8dc28ab3b8a31a">
+        <dex dex="/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/pre-dexed/debug/classes_2339840f82afb65ad7d34960aa66295d1a09c380.jar" />
+    </item>
+
+</items>

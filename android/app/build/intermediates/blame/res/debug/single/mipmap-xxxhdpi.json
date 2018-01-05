@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/frankkair/Documents/electrode/electrode_mini_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/moblee/Documents/electrode_mini_app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/moblee/Documents/electrode_mini_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/frankkair/Documents/electrode/electrode_demo_moblee/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
