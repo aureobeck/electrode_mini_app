@@ -1,0 +1,8 @@
+node_modules
+ios/build
+android/build
+android/app/build
+android/.gradle
+ios/ErnRunner
+ios/ErnRunner.xcodeproj
+android
